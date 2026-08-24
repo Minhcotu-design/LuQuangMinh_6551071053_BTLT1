@@ -1,0 +1,14 @@
+D:\code\C#\cau6\cau6\bin\Debug\net10.0\cau6.exe
+D:\code\C#\cau6\cau6\bin\Debug\net10.0\cau6.deps.json
+D:\code\C#\cau6\cau6\bin\Debug\net10.0\cau6.runtimeconfig.json
+D:\code\C#\cau6\cau6\bin\Debug\net10.0\cau6.dll
+D:\code\C#\cau6\cau6\bin\Debug\net10.0\cau6.pdb
+D:\code\C#\cau6\cau6\obj\Debug\net10.0\cau6.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C#\cau6\cau6\obj\Debug\net10.0\cau6.AssemblyInfoInputs.cache
+D:\code\C#\cau6\cau6\obj\Debug\net10.0\cau6.AssemblyInfo.cs
+D:\code\C#\cau6\cau6\obj\Debug\net10.0\cau6.csproj.CoreCompileInputs.cache
+D:\code\C#\cau6\cau6\obj\Debug\net10.0\cau6.dll
+D:\code\C#\cau6\cau6\obj\Debug\net10.0\refint\cau6.dll
+D:\code\C#\cau6\cau6\obj\Debug\net10.0\cau6.pdb
+D:\code\C#\cau6\cau6\obj\Debug\net10.0\cau6.genruntimeconfig.cache
+D:\code\C#\cau6\cau6\obj\Debug\net10.0\ref\cau6.dll
