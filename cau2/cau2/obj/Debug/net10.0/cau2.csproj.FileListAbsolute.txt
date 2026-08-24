@@ -1,0 +1,14 @@
+D:\code\C#\cau2\cau2\bin\Debug\net10.0\cau2.exe
+D:\code\C#\cau2\cau2\bin\Debug\net10.0\cau2.deps.json
+D:\code\C#\cau2\cau2\bin\Debug\net10.0\cau2.runtimeconfig.json
+D:\code\C#\cau2\cau2\bin\Debug\net10.0\cau2.dll
+D:\code\C#\cau2\cau2\bin\Debug\net10.0\cau2.pdb
+D:\code\C#\cau2\cau2\obj\Debug\net10.0\cau2.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C#\cau2\cau2\obj\Debug\net10.0\cau2.AssemblyInfoInputs.cache
+D:\code\C#\cau2\cau2\obj\Debug\net10.0\cau2.AssemblyInfo.cs
+D:\code\C#\cau2\cau2\obj\Debug\net10.0\cau2.csproj.CoreCompileInputs.cache
+D:\code\C#\cau2\cau2\obj\Debug\net10.0\cau2.dll
+D:\code\C#\cau2\cau2\obj\Debug\net10.0\refint\cau2.dll
+D:\code\C#\cau2\cau2\obj\Debug\net10.0\cau2.pdb
+D:\code\C#\cau2\cau2\obj\Debug\net10.0\cau2.genruntimeconfig.cache
+D:\code\C#\cau2\cau2\obj\Debug\net10.0\ref\cau2.dll
